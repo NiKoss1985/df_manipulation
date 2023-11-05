@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np 
 
 #upload .csv file in pandas 
-dataframe = pd.read_csv(r'df_manipulation/db/sales/sales.csv')
+dataframe = pd.read_csv(r'github.com/NiKoss1985/df_manipulation/blob/main/db/sales.csv')
 
 #visualise top 5 rows to get an understanding of the DF and names of columns
 dataframe.head()
