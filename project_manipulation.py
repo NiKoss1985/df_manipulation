@@ -12,5 +12,5 @@ dataframe.head()
 dataframe.dtypes
 
 #use .info to find potential NaN values in the DF
-sales.info()
+dataframe.info()
 
